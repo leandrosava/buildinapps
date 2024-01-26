@@ -46,4 +46,4 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
-#Microsoft.Skype
+#Skype

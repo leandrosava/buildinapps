@@ -52,3 +52,4 @@ MicrosoftWindows.Client.WebExperience
 #Microsoft.XboxApp_8wekyb3d8bbwe
 #Microsoft.WindowsFeedbackHub
 #Microsoft.SkypeApp_15.111.3607.0_x64__kzf8qxf38zg5c
+#Microsoft.SkypeApp

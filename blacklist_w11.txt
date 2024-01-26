@@ -46,12 +46,8 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
-#Skype
-#Microsoft.SkypeApp_kzf8qxf38zg5c
-#Xbox Console Companion
 #Microsoft.XboxApp_8wekyb3d8bbwe
 #Microsoft.WindowsFeedbackHub
-#Microsoft.SkypeApp_15.111.3607.0_x64__kzf8qxf38zg5c
 #Microsoft.SkypeApp
 #Microsoft.MixedReality.Portal
 #Microsoft.WindowsMaps

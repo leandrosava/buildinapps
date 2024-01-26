@@ -47,3 +47,4 @@ Microsoft.WindowsTerminal
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
 #Skype
+#Microsoft.SkypeApp_kzf8qxf38zg5c

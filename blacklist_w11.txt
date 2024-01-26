@@ -48,3 +48,5 @@ Microsoft.WindowsTerminal
 MicrosoftWindows.Client.WebExperience
 #Skype
 #Microsoft.SkypeApp_kzf8qxf38zg5c
+#Xbox Console Companion
+#Microsoft.XboxApp_8wekyb3d8bbwe

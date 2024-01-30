@@ -51,3 +51,6 @@ MicrosoftWindows.Client.WebExperience
 #Microsoft.SkypeApp
 #Microsoft.MixedReality.Portal
 #Microsoft.WindowsMaps
+#Xbox Console Companion
+#Microsoft.XboxApp
+#Microsoft.XboxApp_8wekyb3d8bbwe
